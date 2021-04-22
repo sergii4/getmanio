@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Terminal, command line, code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2021 14:43:13 +0100</lastBuildDate><atom:link href="https://getman.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 11:34:55 +0100</lastBuildDate><atom:link href="https://getman.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Rust in Neovim</title>
+      <link>https://getman.io/posts/programming-rust-in-neovim/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/posts/programming-rust-in-neovim/</guid>
+      <description>Just after I set up my work Go environment in Neovim I was eager to expand this experience to another language. I was wondering how much configuration it requires from me. I was really surpised how easy it turned out.
+Rust Installation I installed Rust with Rustup:
+$ curl --proto &amp;#39;=https&amp;#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh Then I run, because I faced an issue:
+$ rustup update $ rustup comonent add rust-src As LSP server we need a Rust Analyzer.</description>
+    </item>
+    
     <item>
       <title>Programming Go in Neovim</title>
       <link>https://getman.io/posts/programming-go-in-neovim/</link>

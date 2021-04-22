@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Terminal, command line, code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2021 14:43:13 +0100</lastBuildDate><atom:link href="https://getman.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 11:34:55 +0100</lastBuildDate><atom:link href="https://getman.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lsp</title>
+      <link>https://getman.io/tags/lsp/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/lsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neovim</title>
+      <link>https://getman.io/tags/neovim/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/neovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://getman.io/tags/rust/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust-analyser</title>
+      <link>https://getman.io/tags/rust-analyser/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/rust-analyser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://getman.io/tags/vim/</link>
+      <pubDate>Thu, 22 Apr 2021 11:34:55 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/vim/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>go</title>
       <link>https://getman.io/tags/go/</link>
@@ -22,33 +67,6 @@
       <pubDate>Wed, 14 Apr 2021 14:43:13 +0100</pubDate>
       
       <guid>https://getman.io/tags/gopls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lsp</title>
-      <link>https://getman.io/tags/lsp/</link>
-      <pubDate>Wed, 14 Apr 2021 14:43:13 +0100</pubDate>
-      
-      <guid>https://getman.io/tags/lsp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neovim</title>
-      <link>https://getman.io/tags/neovim/</link>
-      <pubDate>Wed, 14 Apr 2021 14:43:13 +0100</pubDate>
-      
-      <guid>https://getman.io/tags/neovim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vim</title>
-      <link>https://getman.io/tags/vim/</link>
-      <pubDate>Wed, 14 Apr 2021 14:43:13 +0100</pubDate>
-      
-      <guid>https://getman.io/tags/vim/</guid>
       <description></description>
     </item>
     
