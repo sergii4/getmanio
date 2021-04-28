@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k8s on Terminal, command line, code</title>
+    <link>https://getman.io/tags/k8s/</link>
+    <description>Recent content in k8s on Terminal, command line, code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 15:56:07 +0100</lastBuildDate><atom:link href="https://getman.io/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubens. DIY with FZF</title>
+      <link>https://getman.io/posts/kubens.-diy-with-fzf/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/posts/kubens.-diy-with-fzf/</guid>
+      <description>In my work daily routine, I often need to switch between namespaces(less frequently contexts) in kubernetes and I used to use kubectx/kubens tools. Recently I started using FZF, mostly as a file finder and for fuzzy search in command line history.
+I was wonder if I can apply FZF somewhere else. I tried to make my own kubens. What requirements do I have?
+ show all namespaces for the current context select with fuzzy search switch to selected highlight current namespace (optional)  For intermediate scripts I use fish shell, a final script I show in fish shell and bash/zsh.</description>
+    </item>
+    
+  </channel>
+</rss>

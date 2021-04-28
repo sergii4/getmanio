@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Terminal, command line, code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 11:34:55 +0100</lastBuildDate><atom:link href="https://getman.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Apr 2021 15:56:07 +0100</lastBuildDate><atom:link href="https://getman.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fish</title>
+      <link>https://getman.io/tags/fish/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fzf</title>
+      <link>https://getman.io/tags/fzf/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/fzf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://getman.io/tags/k8s/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://getman.io/tags/kubernetes/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://getman.io/tags/shell/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:07 +0100</pubDate>
+      
+      <guid>https://getman.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>lsp</title>
       <link>https://getman.io/tags/lsp/</link>
